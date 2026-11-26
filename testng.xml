@@ -1,0 +1,5 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="FormTest Pro Java Suite" parallel="false" verbose="1">
+  <test name="Internal Forms - 250 Designed Cases"><classes><class name="com.formtestpro.tests.InternalFormsTest"/></classes></test>
+  <test name="External Selenium Sample - 50 Designed Cases"><classes><class name="com.formtestpro.tests.ExternalWebsiteTest"/></classes></test>
+</suite>
